@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusquedasMovilesApp", "familiasEnAccionApp\BusquedasMovilesApp.csproj", "{BA5EEEEF-876E-4333-A113-E894E0096C7B}"
+EndProject
+Project("{B900F1C2-3D47-4FEC-85B3-04AAF18C3634}") = "ApoyoLogisticoMovilApp", "ApoyoLogisticoMovilApp\ApoyoLogisticoMovilApp.vddproj", "{36165CD1-B7AC-4B9B-AA9F-5B936D42EEE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusquedasMovilesCF2", "BusquedasMovilesCF2\BusquedasMovilesCF2.csproj", "{B8ECCFC1-EA8B-4BAD-A045-B2BC3179D01D}"
+EndProject
+Project("{B900F1C2-3D47-4FEC-85B3-04AAF18C3634}") = "ApoyoLogisticoMovilAppCF2", "ApoyoLogisticoMovilAppCF2\ApoyoLogisticoMovilAppCF2.vddproj", "{BEAF0101-14F3-43E8-9D7D-5FC6A679E55F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA5EEEEF-876E-4333-A113-E894E0096C7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA5EEEEF-876E-4333-A113-E894E0096C7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA5EEEEF-876E-4333-A113-E894E0096C7B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{BA5EEEEF-876E-4333-A113-E894E0096C7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA5EEEEF-876E-4333-A113-E894E0096C7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA5EEEEF-876E-4333-A113-E894E0096C7B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{36165CD1-B7AC-4B9B-AA9F-5B936D42EEE9}.Debug|Any CPU.ActiveCfg = Debug
+		{36165CD1-B7AC-4B9B-AA9F-5B936D42EEE9}.Release|Any CPU.ActiveCfg = Release
+		{B8ECCFC1-EA8B-4BAD-A045-B2BC3179D01D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8ECCFC1-EA8B-4BAD-A045-B2BC3179D01D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8ECCFC1-EA8B-4BAD-A045-B2BC3179D01D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B8ECCFC1-EA8B-4BAD-A045-B2BC3179D01D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8ECCFC1-EA8B-4BAD-A045-B2BC3179D01D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8ECCFC1-EA8B-4BAD-A045-B2BC3179D01D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{BEAF0101-14F3-43E8-9D7D-5FC6A679E55F}.Debug|Any CPU.ActiveCfg = Debug
+		{BEAF0101-14F3-43E8-9D7D-5FC6A679E55F}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
