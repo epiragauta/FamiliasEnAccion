@@ -11,12 +11,18 @@ using System.Data.SQLite;
 
 namespace familiasEnAccionApp
 {
+  /// <summary>
+  /// Clade principal del Formulario
+  /// </summary>
   public partial class FrmSearch : Form
   {
     private SQLiteConnection _connection;
     private string _sDataSource;
     private SQLiteDataReader sqlReader;
 
+    /// <summary>
+    /// Constructor Inicial
+    /// </summary>
     public FrmSearch()
     {
       InitializeComponent();
